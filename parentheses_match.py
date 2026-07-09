@@ -55,6 +55,8 @@ def matching_parentheses(expression):
         if i == '(':
             S.push(i)
         elif i == ')':
+            if len(S) == 0:
+                return False
             S.pop()
         else:
             pass
