@@ -1,2 +1,2 @@
 This repository is for keeping track of learning data structure using Python. 
-I'm going to upload practice problem I did while going through data structure with Python course.
+I'm going to upload my progress on solving practice problem or implementation of data structure using Python while listening the datastructure with python course. 
